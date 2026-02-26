@@ -29,6 +29,9 @@ Constraints:
 2 <= nums.length <= 500
 0 <= nums[i] <= 100
 
+
+Lets dive into the solution,
+
 ## Solution
 ```python
 class Solution:
