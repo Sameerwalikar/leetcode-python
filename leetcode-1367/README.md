@@ -30,7 +30,7 @@ Constraints:
 0 <= nums[i] <= 100
 
 ## Solution
-```
+```python
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         count=0
@@ -42,7 +42,7 @@ class Solution:
             list1.append(count)
             count=0
         return list1
-```
+
             
 
 
